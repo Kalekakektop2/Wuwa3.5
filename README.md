@@ -1,6 +1,6 @@
-# Wuthering Waves 3.5 — русификатор (PC + Android)
+# Wuthering Waves 3.5 — русификатор (PC + Android) от qwikki
 
-Бесплатный русский текст для **Wuthering Waves 3.5** на ПК и Android.
+Бесплатный русский текст для **Wuthering Waves 3.5** на ПК и Android. от qwikki
 
 Новости и сборки: [Telegram](https://t.me/WuwaNewss)
 
